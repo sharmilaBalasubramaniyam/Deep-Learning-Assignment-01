@@ -1,5 +1,7 @@
 Question No. 01
 
+Design a neural network to translate text from one language to another, aiming for fluency and accuracy in translating between languages like English and French.
+
 import numpy as np
 import tensorflow as tf
 from tensorflow.keras.models import Model
